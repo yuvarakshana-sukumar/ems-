@@ -1,0 +1,5 @@
+com\Trimble\EMS\Repository\EntitlementRepository.class
+com\Trimble\EMS\Repository\TokenRepository.class
+com\Trimble\EMS\Repository\MemberRepository.class
+com\Trimble\EMS\Repository\AccountRepository.class
+com\Trimble\EMS\Repository\ActivationRepository.class
